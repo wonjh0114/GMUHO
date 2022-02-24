@@ -1,0 +1,13 @@
+h1{
+  border-bottom:black 1px solid;
+}
+#grid_menu{
+  display: grid;
+  grid-template-columns: 300px 300px;
+}
+#grid_menu p{border-right:1px black solid;
+width:300px;
+text-align: center;
+font-size:20px;
+background-color: #ffefd5	;}
+map{display:inline;}
